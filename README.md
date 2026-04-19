@@ -5,8 +5,7 @@ how often AI models mention your brand — built to deeply understand
 the core problem Writesonic solves.
 
 ## Live Demo
-👉 [geo-tracker-yourusername.streamlit.app](https://geo-tracker-lfpf8tqpdjz76lpg43rp65.streamlit.app/)
-
+👉 [GEO Visibility Tracker — Live Demo](https://geo-tracker-lfpf8tqpdjz76lpg43rp65.streamlit.app/)
 ---
 
 ## What is GEO?
